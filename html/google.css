@@ -1,0 +1,155 @@
+
+.G
+{
+      color: rgb(84, 84, 227);
+      font-size: 45px;
+      
+      
+
+}
+.O
+{
+      color: rgb(198, 51, 51);
+      font-size: 30px;
+
+}
+.O2
+{
+      color: rgb(207, 207, 56);
+      font-size: 30px;
+
+}
+.g2
+{
+       color: rgb(64, 64, 205);
+       font-size: 45px;
+}
+.L
+{
+       color: rgb(43, 150, 43);
+       font-size: 40px;
+}
+.E
+{
+       color: rgb(198, 51, 51);
+       font-size: 40px;
+
+}
+.google
+{
+       text-align: center;
+       margin-top: 20px;
+
+     
+       
+}
+.One
+{
+       font-size: 45px;
+       text-align: center; 
+       opacity: 0.7;
+       margin-top: 10px;
+       margin-bottom: 10px;
+
+}
+.Sign
+{
+       text-align: center;
+       opacity: 0.7;
+       margin-top: 0;
+}
+.image
+{
+      
+       width: 100px;
+       height: 100px;
+       margin-top: 20px ;
+       
+}
+.email
+{
+         
+       width: 200px;
+       padding: 10px;
+       border: 0.5px solid lightgrey;
+       margin-top: 20px;
+
+
+}
+.email:focus
+{
+       outline: none;
+       border: 1px solid blue;
+       caret-color: blue;
+}
+.Password
+{
+
+       width: 200px;
+       padding: 10px;
+       border: 0.5px solid lightgrey;;
+       margin-top: 10px;
+    
+}
+.Password:focus
+{
+       outline: none;
+border: 1px solid blue;
+caret-color: blue;
+}
+.Login
+{
+ 
+       width: 222px;
+       padding: 10px;
+       height: 35px;
+       background-color:rgb(69, 138, 242);
+       border: none;
+       border-radius: 6px;
+       color: white;
+}
+
+.Login:hover 
+{
+       background-color: blue;
+ 
+}
+ 
+.Checkbox
+{
+      
+       margin-top: 20px;
+       opacity: 1px;
+}
+  
+.Need
+{
+
+       text-decoration: none; 
+
+}
+.Form
+{
+        margin-left: 560px;
+        text-align: center;
+        width: 400px;
+        
+        height: 400px;
+       background-color: #ebedee;
+}
+.Account
+{
+        margin-left:700px ;
+        font-size: large;
+        text-decoration: none;
+}
+
+.For
+{
+        text-align: center;
+     
+        opacity: 0.7;
+}
+  
+
+    

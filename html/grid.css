@@ -1,0 +1,57 @@
+
+
+
+.Container{
+    display: grid;
+    grid-template-areas: 
+    'header header header header header header'
+    'left left auto auto right right'
+    'left left footer footer footer footer';
+    gap:10px;
+    border: solid rgb(189, 122, 122);
+    padding:  10px;
+    width: 1000px;
+    margin-left: 200px;
+    margin-top: 150px;
+    
+
+}
+
+#term1{
+    grid-area: header;
+    border: solid black;
+    padding:  40px;
+    background-color: blue;
+    text-align: center;
+    font-size: 40px;
+}
+
+#term2{
+    grid-area: left;
+    border: solid black;
+    padding:  40px;
+    background-color: red;
+    text-align: center;
+    font-size: 40px;
+    padding-top: 100px;
+}
+
+#term3{
+    grid-area: right;
+    border: solid black;
+    padding:  40px;
+    background-color: green;
+    text-align: center;
+    font-size: 40px;
+}
+
+
+
+#term4{
+    grid-area:footer;
+    border: solid black;
+    padding:  40px; 
+    background-color: yellow;
+    text-align: center;
+    font-size: 40px;
+}

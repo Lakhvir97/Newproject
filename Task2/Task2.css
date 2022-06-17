@@ -1,0 +1,69 @@
+* {
+  padding: 0rem;
+  margin: 0rem;
+}
+body {
+  background-color: #e5e5e5;
+  max-width: 100%;
+  font-family: "Outfit", sans-serif;
+}
+.Container {
+  height: 12rem;
+  border: 1px solid black;
+  max-width: 100%;
+}
+.Header {
+  display: flex;
+  max-width: 100%;
+}
+.Diamond-Div {
+  display: inline-flex;
+  padding: 3rem;
+  border: 1px solid black;
+}
+.Diamond-Div p {
+  position: absolute;
+  border: 1px solid black;
+  font-size: 0.6rem;
+  margin-top: 7.9vh;
+}
+.Diamond1 {
+  border: 1px solid black;
+}
+.List {
+  display: flex;
+  border: 1px solid black;
+  align-items: center;
+  margin: 0rem 0rem 1rem 18rem;
+  max-width: 100%;
+}
+.List ul {
+  display: flex;
+  max-width: 100%;
+}
+.List ul li {
+  display: inline-block;
+  padding: 2rem;
+  max-width: 100%;
+}
+.Search {
+  display: flex;
+}
+.Button {
+  display: flex;
+}
+#login {
+  min-height: 7vh;
+  min-width: 8vw;
+  margin: 8vh 0vw 0vh 13vw;
+  border-radius: 12px;
+  border: 1px solid lightgrey;
+}
+#Signup {
+  min-height: 7vh;
+  min-width: 8vw;
+  margin: 8vh 0vw 0vh 2vw;
+  border-radius: 12px;
+  background: linear-gradient(270deg, #2286dc 0%, #4db3dc 100%);
+  border: none;
+}
